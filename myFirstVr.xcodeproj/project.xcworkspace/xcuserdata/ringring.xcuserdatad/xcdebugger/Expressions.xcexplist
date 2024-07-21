@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.doPinch(gesture:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gesture.state">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SCNNode.applyTorque(startLocation:endLocation:):EarthNode.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "startLocation">
+            </PersistentString>
+            <PersistentString
+               value = "nodeCenterWorld">
+            </PersistentString>
+            <PersistentString
+               value = "torque">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.handleTap(rec:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sceneView.scene.rootNode">
+            </PersistentString>
+            <PersistentString
+               value = "sceneView.scene">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.handlePan(_:):ViewController+Gestures.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sphere">
+            </PersistentString>
+            <PersistentString
+               value = "sceneView.scene.rootNode.childNode(withName:&quot;JoinedObject&quot;, recursively: true)">
+            </PersistentString>
+            <PersistentString
+               value = "hitResults.first">
+            </PersistentString>
+            <PersistentString
+               value = "hit?.node">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.changeObjectType():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sceneView.scene.rootNode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.doPan(sender:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sceneView.raycastQuery(from: point, allowing: . estimatedPlane, alignment: .any)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
